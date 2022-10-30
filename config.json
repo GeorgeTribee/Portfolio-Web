@@ -1,21 +1,16 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Giorgi Daraselia",
+  "name": "Giorgi Daraselia",
+  "ascii": "Giorgi Daraselia",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "GeorgeTribee",
+    "linkedin": "giorgi-daraselia"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "email": "daraseliagiorgi361@gmail.com",
+  "ps1_hostname": "portfolio",
+  "ps1_username": "Giorgi",
+  "repo": "https://github.com/GeorgeTribee/Portfolio",
+  "resume_url": "https://online.flippingbook.com/view/566051859/",
   "colors": {
     "light": {
       "background": "#FBF1C9",

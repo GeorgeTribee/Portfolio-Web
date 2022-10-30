@@ -8,10 +8,6 @@ export const getProjects = async () => {
   return data;
 };
 
-export const getReadme = async () => {
-  const { data } = await axios.get(config.readmeUrl);
-  return data;
-};
 
 export const getWeather = async (city: string) => {
   try {
@@ -22,9 +18,3 @@ export const getWeather = async (city: string) => {
   }
 };
 
-export const getQuote = async () => {
-  const { data } = await axios.get('https://api.quotable.io/random');
-  return {
-    quote: `“${data.content}” — ${data.author}`,
-  };
-};
