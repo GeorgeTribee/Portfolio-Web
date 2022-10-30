@@ -32,10 +32,7 @@ div#__next > div {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #ebdbb2;
+  background: #023020;
   border-radius: 5px;
 }
 
-::-webkit-scrollbar-thumb:hover {
-  background: #ff8037;
-}

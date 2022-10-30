@@ -120,6 +120,7 @@ export const sudo = async (args?: string[]): Promise<string> => {
 // Banner
 export const banner = (args?: string[]): string => {
   return `
+                                                                                                                                                                                                
   #####                              ######                                                     
  #     # #  ####  #####   ####  #    #     #   ##   #####    ##    ####  ###### #      #   ##   
  #       # #    # #    # #    # #    #     #  #  #  #    #  #  #  #      #      #      #  #  #  
