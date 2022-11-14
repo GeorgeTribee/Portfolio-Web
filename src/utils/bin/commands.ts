@@ -113,7 +113,7 @@ export const emacs = async (args?: string[]): Promise<string> => {
 };
 
 export const sudo = async (args?: string[]): Promise<string> => {
-  window.open('https://youtu.be/meaDdAd6tcU', '_blank'); // ...I'm sorry
+  window.open('https://youtu.be/dQw4w9WgXcQ?list=LL', '_blank'); // ...I'm sorry
   return `Permission denied: with little power comes... no responsibility? `;
 };
 
