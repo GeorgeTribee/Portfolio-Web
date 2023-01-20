@@ -32,6 +32,12 @@ export const repo = async (args: string[]): Promise<string> => {
 export const about = async (args: string[]): Promise<string> => {
   return `Hi, I am ${config.name}. 
 Welcome to my website!
+My top skills:
+
+$ HTML,CSS,JS,ReactJS,TS
+$ Windows,MacOS,Linux(Kali,Ubuntu,Mint)
+$ Blockchain,Web3.0
+
 More about me:
 'sumfetch' - short summary.
 'resume' - my latest resume.`;
